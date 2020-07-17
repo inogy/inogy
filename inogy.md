@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...BA(Business Architect) Job
 - 🤔 I’m looking for help with ...Automobile
 - 💬 Ask me about ...e-Commerce
-- 📫 How to reach me: ...inogy@outlook.kr
+- 📫 How to reach me: ... inogy@outlook.kr
 - 😄 Pronouns: ...Question 
 - ⚡ Fun fact: ... 
 
