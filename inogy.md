@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**inogy/inogy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**inogy/inogy** is a ✨ _special_ ✨  
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...e-Commerce Consultant
 - 🌱 I’m currently learning ...github, invision, python
