@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 
 Question are the answer.
+
+텍스트 세트 때문에 한글은 잘 안나올수도 있겠네요. 
